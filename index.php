@@ -46,50 +46,49 @@ and open the template in the editor.
                 <li>
                     <img src="images/bg1.jpg"> <!-- random image -->
                     <div class="caption center-align">
-                        <h3>This is our big Tagline!</h3>
-                        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                        <h3 class="headding">For All of Your Security Needs!</h3>
+                        <h5 class="subHeadding light">Professional discretion security for a changing world.</h5>
                     </div>
                 </li>
                 <li>
                     <img src="images/bg2.jpg"> <!-- random image -->
                     <div class="caption left-align">
-                        <h3>Left Aligned Caption</h3>
-                        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                        <h3 class="headding">Enabling businesses by Managed Technologies.</h3>
+                        <h5 class="subHeadding light">Always Alert in Your Service.</h5>
                     </div>
                 </li>                
             </ul>
         </div>
         <div class="row">
-            <div class="col l3">
+        <div class="col l3">
                 <div class="feature-icon">
-                    <i class="material-icons">dashboard</i>
+                    <i class="material-icons">fitness_center</i>
                 </div>
-                <div class="feature-title">Visual Editing in Browser</div>
-                <div class="feature-description">Create a website without thinking about content editing. Have content editing layer for free without spending a minute.</div>
+                <div class="feature-title">SECURITY TRAINING</div>
+                <div class="feature-description">Our Employees are trained under professional eyes so that they can out perform any obstetrical when situation demands of it.</div>
             </div>
             <div class="col l3">
                 <div class="feature-icon">
-                    <i class="material-icons">subtitles</i>
+                    <i class="material-icons">security</i>
                 </div>
-                <div class="feature-title">Jekyll and Static Websites</div>
-                <div class="feature-description">We support anything that builds with a Dockerfile, but we optimize
-                    the experience for Jekyll and Static Websites.</div>
+                <div class="feature-title">MANUAL GUARDING</div>
+                <div class="feature-description">Security Squad consists of Security Professionals, who undertake specialised security tasks required by the clients.  All the assignments are accepted only after careful examination of the case and all our efforts are made to produce the results to the satisfaction of the clients.</div>
             </div>
             <div class="col l3">
                 <div class="feature-icon">
-                    <i class="material-icons">loop</i>
+                    <i class="material-icons">supervisor_account</i>
                 </div>
-                <div class="feature-title">Upload and sync with GitHub</div>
-                <div class="feature-description">Got a website already? We'll provide the Visual Editing layer then.
-                    Create feature branches and Pull Requests with Visual Editor.</div>                        
+                <div class="feature-title">SUPERVISOR</div>
+                <div class="feature-description">A security supervisor monitors his staff by patrolling with them by auto or on foot. The supervisor is also responsible for monitoring the electronic surveillance equipment used on the premises.</div>                        
             </div>
             <div class="col l3">
                 <div class="feature-icon">
-                    <i class="material-icons">airplay</i>
+                    <i class="material-icons">filter_vintage</i>
                 </div>
-                <div class="feature-title">Code Editing in Browser</div>
-                <div class="feature-description">Need to do some bigger design changes? Edit all your CSS, HTML and JavaScript files
-                    in your browser.</div>
+                <div class="feature-title">HORTICULTURE SERVISES</div>
+                <div class="feature-description">
+                    Our essential duties of horticulture services include plants and Garden Maintainance. Our qualified technicians are expert in landscaping horticulture. Additional services involve Pest Control, Comprehensive Ground maintenance, and irrigation facilities.
+                </div>
             </div>                
         </div>
         <div class="col s12 m8 offset-m2 l6 offset-l3">
@@ -131,6 +130,7 @@ and open the template in the editor.
                 </div>
             </div>
         </footer>
+        <link href="css/common.css" type="text/css" rel="stylesheet"/>
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script src="js/materialize.min.js" ></script>
         <script>
