@@ -9,3 +9,16 @@
     height: 100%;
     width: 100%;
 }
+.strength-icon
+{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 80px;
+    display: block;
+    text-align: center;
+}
+.feature-title
+{
+    font-size: 30px;
+    text-align: center;
+}

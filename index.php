@@ -60,30 +60,30 @@ and open the template in the editor.
             </ul>
         </div>
         <div class="row">
-        <div class="col l3">
+        <div class="col s12 l3">
                 <div class="feature-icon">
-                    <i class="material-icons">fitness_center</i>
+                    <i class="strength-icon material-icons">fitness_center</i>
                 </div>
-                <div class="feature-title">SECURITY TRAINING</div>
+                <div class="feature-title">Security Training</div>
                 <div class="feature-description">Our Employees are trained under professional eyes so that they can out perform any obstetrical when situation demands of it.</div>
             </div>
-            <div class="col l3">
+            <div class="col s12 l3">
                 <div class="feature-icon">
-                    <i class="material-icons">security</i>
+                    <i class="strength-icon material-icons">security</i>
                 </div>
                 <div class="feature-title">MANUAL GUARDING</div>
-                <div class="feature-description">Security Squad consists of Security Professionals, who undertake specialised security tasks required by the clients.  All the assignments are accepted only after careful examination of the case and all our efforts are made to produce the results to the satisfaction of the clients.</div>
+                <div class="feature-description">Security Squad consists of Security Professionals, who undertake specialized security tasks required by the clients.  All the assignments are accepted only after careful examination of the case and all our efforts are made to produce the results to the satisfaction of the clients.</div>
             </div>
-            <div class="col l3">
+            <div class="col s12 l3">
                 <div class="feature-icon">
-                    <i class="material-icons">supervisor_account</i>
+                    <i class="strength-icon material-icons">supervisor_account</i>
                 </div>
                 <div class="feature-title">SUPERVISOR</div>
                 <div class="feature-description">A security supervisor monitors his staff by patrolling with them by auto or on foot. The supervisor is also responsible for monitoring the electronic surveillance equipment used on the premises.</div>                        
             </div>
-            <div class="col l3">
+            <div class="col s12 l3">
                 <div class="feature-icon">
-                    <i class="material-icons">filter_vintage</i>
+                    <i class="strength-icon material-icons">filter_vintage</i>
                 </div>
                 <div class="feature-title">HORTICULTURE SERVISES</div>
                 <div class="feature-description">
