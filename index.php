@@ -5,42 +5,9 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-        <link href="css/materialize.min.css" type="text/css" rel="stylesheet"/>
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-        <link rel="manifest" href="manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
-    </head>
+    <?php include_once 'php/head.php'; ?>
     <body>
-        <div class="navbar-fixed">
-            <nav>
-                <div class="nav-wrapper">
-                    <a href="#!" class="brand-logo">Star Security</a>
-                    <ul class="right hide-on-med-and-down">
-                        <li><a href="sass.html">About</a></li>
-                        <li><a href="badges.html">Papers</a></li>
-                        <li><a href="badges.html">Contact Us</a></li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
+        <?php include_once 'php/navbar.php'; ?>
         <div class="slider">
             <ul class="slides">
                 <li>
@@ -60,7 +27,7 @@ and open the template in the editor.
             </ul>
         </div>
         <div class="row">
-        <div class="col s12 l3">
+            <div class="col s12 l3">
                 <div class="feature-icon">
                     <i class="strength-icon material-icons">fitness_center</i>
                 </div>
@@ -110,34 +77,8 @@ and open the template in the editor.
                 </div>
             </div>
         </div>
-        <footer class="page-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col l6 s12">
-                        <h5 class="white-text">Footer Content</h5>
-                        <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
-                    </div>
-                    <div class="col l4 offset-l2 s12">
-                        <h5 class="white-text">Links</h5>
-                        <ul>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                            <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-copyright">
-                <div class="container">
-                    © 2014 Copyright Text
-                    <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
-                </div>
-            </div>
-        </footer>
-        <link href="css/common.css" type="text/css" rel="stylesheet"/>
-        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <script src="js/materialize.min.js" ></script>
+        <?php include_once 'php/footer.php'; ?>
+        <?php include_once 'php/scripts.php'; ?>
         <script>
             $(document).ready(function () {
                 $('.slider').slider();
