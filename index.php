@@ -65,14 +65,14 @@ and open the template in the editor.
                     <i class="material-icons">fitness_center</i>
                 </div>
                 <div class="feature-title">SECURITY TRAINING</div>
-                <div class="feature-description">Our Employees are trained under professional eyes so that they can out perform any obstetrical when situation demands of it.</div>
+                <div class="feature-description">Our every employee is trained by the very best, No challenge big enough. With any hesitation, our employees can outperform any obstetrical when the situation demands it.</div>
             </div>
             <div class="col l3">
                 <div class="feature-icon">
                     <i class="material-icons">security</i>
                 </div>
                 <div class="feature-title">MANUAL GUARDING</div>
-                <div class="feature-description">Security Squad consists of Security Professionals, who undertake specialised security tasks required by the clients.  All the assignments are accepted only after careful examination of the case and all our efforts are made to produce the results to the satisfaction of the clients.</div>
+                <div class="feature-description">Our Security Squad consists of the very best.  All the assignments are accepted only after careful examination of the case and all our efforts are made to produce the results to the satisfaction of the clients.</div>
             </div>
             <div class="col l3">
                 <div class="feature-icon">
@@ -86,21 +86,23 @@ and open the template in the editor.
                     <i class="material-icons">filter_vintage</i>
                 </div>
                 <div class="feature-title">HORTICULTURE SERVISES</div>
-                <div class="feature-description">
-                    Our essential duties of horticulture services include plants and Garden Maintainance. Our qualified technicians are expert in landscaping horticulture. Additional services involve Pest Control, Comprehensive Ground maintenance, and irrigation facilities.
+                <div class="feature-description">Our essential duties of horticulture services include plants and Garden Maintainance. Additional services involve Pest Control, Comprehensive Ground maintenance, and irrigation facilities.
                 </div>
             </div>                
-        </div>
+        </div >
         <div class="col s12 m8 offset-m2 l6 offset-l3">
             <div class="card-panel grey lighten-5 z-depth-1">
                 <div class="row valign-wrapper">
                     <div class="col s2">
-                        <img src="images/yuna.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+                        <img src="a/star-security.jpg" alt="" class="responsive-img"> <!-- notice the "circle" class -->
                     </div>
-                    <div class="col s10">
-                        <span class="black-text">
+                    <div class="col s6">
+                        <!-- <span class="black-text">
                             This is a square image. Add the "circle" class to it to make it appear circular.
-                        </span>
+                        </span> -->
+                        <h3 class="headding">HELLO THERE!</h3>
+                        <h5 class="subHeadding light">Trouble In Paradise? We can Help.</h5>
+                        <p>We introduce ourselves as the best Security and Placement Service provider at Udaipur,Pratapgarh,Dungarpur,Rajsamand and Banswara with a team of highly experienced and trained and dedicated Operatives. We take care of all types of Security,Placement, Horticultures and Event Managent issues in all sectors.</p>
                     </div>
                 </div>
             </div>
